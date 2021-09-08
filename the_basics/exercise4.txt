@@ -1,0 +1,1 @@
+It logs '510' instead of 15 because the + is adding a string of '5' to the number 10; in the process, this coerces the 10 into a string and then concatenates the two.

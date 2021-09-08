@@ -1,0 +1,1 @@
+No, an error will not occur; rather, it will  return 'undefined.'
