@@ -1,0 +1,1 @@
+The console will print out the first 3 lines of "Good morning, Victor", etc. without issue. When attempting to reassign the constant on line 6, the program will return an error because constants cannot be reassigned.

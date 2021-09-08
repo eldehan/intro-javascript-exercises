@@ -1,0 +1,1 @@
+No, the program will not return an error. Because the attempt to define another constant FOO is limited to an isolated block of code, the passing of FOO into console.log will return 'bar' without issue.

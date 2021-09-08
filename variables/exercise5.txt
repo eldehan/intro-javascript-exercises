@@ -1,0 +1,1 @@
+This program logs 'bar' to the console. The reassignment of foo to 'qux' happens in a block of code and is localized to that block of code; it does not affect the scope in which foo is being passed into console.log.

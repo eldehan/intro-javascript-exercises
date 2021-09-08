@@ -1,0 +1,1 @@
+The console returns an error, because the variable being passed into console.log is scoped locally to another block of code.
