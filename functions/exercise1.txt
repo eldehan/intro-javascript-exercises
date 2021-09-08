@@ -1,0 +1,1 @@
+It will log 1 to the console, because console.log(bar) occurs in the same scope where bar = 1. The function foo has a local scope with its own bar variable; it is not the same variable.
