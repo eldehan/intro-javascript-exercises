@@ -1,0 +1,5 @@
+substring -     prototype - String
+create -        static -    Object
+fromCharCode -  static -    String
+slice -         prototype - String, Array
+toString        prototype - Array, Number, Object, String
