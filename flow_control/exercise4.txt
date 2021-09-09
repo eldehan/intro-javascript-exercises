@@ -1,0 +1,7 @@
+The output would be:
+
+Product2
+Product3
+Product not found!
+
+This is because there are no breaks in any of the cases, so when it matches one case it then falls through into all the following ones as well.
