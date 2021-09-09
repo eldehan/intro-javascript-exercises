@@ -1,0 +1,1 @@
+It will not return an error; it functions as a properly incrementing for loop, it simply increments inside of the loop rather than in the loop initialization.
