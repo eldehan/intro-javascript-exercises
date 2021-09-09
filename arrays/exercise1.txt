@@ -1,0 +1,5 @@
+Array 1 - length is 4
+Array 2 - length is 5
+Array 3 - length is 0
+Array 4 - length is 3
+Array 5 - length is 101
